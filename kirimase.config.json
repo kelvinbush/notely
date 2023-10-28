@@ -1,0 +1,17 @@
+{
+  "hasSrc": false,
+  "packages": [
+    "shadcn-ui",
+    "drizzle",
+    "lucia",
+    "trpc",
+    "resend"
+  ],
+  "preferredPackageManager": "npm",
+  "rootPath": "",
+  "componentLib": "shadcn-ui",
+  "driver": "pg",
+  "provider": "neon",
+  "orm": "drizzle",
+  "auth": "lucia"
+}
