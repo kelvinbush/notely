@@ -43,6 +43,7 @@
     "superjson": "^2.2.0",
     "tailwind-merge": "^1.14.0",
     "tailwindcss-animate": "^1.0.7",
+    "webpack": "^5.89.0",
     "zod": "^3.21.4"
   },
   "devDependencies": {
